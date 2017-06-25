@@ -1,0 +1,8 @@
+---
+layout: default
+img: health.jpg
+category: Services
+title: Health and Prehab 
+description: |
+---
+As mentioned above, I used to be a goalkeeper in soccer. Unfortunately, I hurt myself pretty early in my "career" (pretty low-level ;)) and decided to quit. To stay fit, I signed a memebership at a typical gym doing the steady state cardio and all the different machines not really knowing what I'm actually doing. Luckily, I have some really experienced friends, who introduced me in the proficiency of strength training, rehabilitation and program design. For curing my f*cked up knee and keeping my organs and digestion healthy, I am very proud of calling [Tobi](https://www.facebook.com/TrainEatSleepSucceed/ "Tobi") my good friend! He is doing an awesome work and I would highly recommend checking out his [Tobi_Insta](https://www.instagram.com/tools_for_success/ "social media"). He is, among others, mentored by the one and only [Knebel](https://www.facebook.com/KraftundGesundheitPersonalTraining/ "Daniel Knebel"). This guy helped me avoid knee-surgery! Check out his [Knebel_Podcast](https://www.flowgrade.de/blog/ueber-hashimoto-die-pille-und-warum-frauen-mit-cardio-nicht-abnehmen-flowgrade-show-37-mit-daniel-knebel/ "podcast") on women's' health, detoxification and training (German).
