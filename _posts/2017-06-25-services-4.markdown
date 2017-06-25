@@ -1,11 +1,8 @@
 ---
 layout: default
-img: kettlebells.jpg
+img: photography.jpg
 category: Services
-title: Kettlebells
+title: Photography
 description: |
 ---
-This awesome training tool was introduced to me very early in my fitness journey but it really became a passion at the beginning of 2017. With my good friend [Basti](https://www.instagram.com/buffalobasti/ "Basti") we started a challenge wich became an awesome charity (check out [#SWING4GOOD](https://www.facebook.com/Swing4Good/ "#SWING4GOOD")). 
-Stoked about the good reponse of SWING4GOOD, we decided to attend the German Championships in Kettlebell Sports. Our friend and world champion in the amateur class [Jay](https://www.instagram.com/johanneskwella/ "Johannes") coached us what resulted in another awesome experience.
-Eventually, we decided to attend a seminar to become [Certified Kettlebell Trainers](http://www.perform-better.de/certified-kettlebell-trainer-ckt/ ) . 
-Stay tuned, I am excited about more to come! :)
+Every now and then I grab my [Fuji](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/ "camera"), turn off the phone and get out in the nature. I always liked taking beautiful photos but it was my friend and colleague [Jeff](https://www.instagram.com/hatcat_photography/ "Jeff") who really introduced me to the art of photography. I really do not consider myself a professional, it's simply a hobby and a way to get out and experience nature. If you like, feel free to check out my pictures ([Insta](https://www.instagram.com/mjd283 "Instagram") or [500px](https://500px.com/michaeldick2 "500px")) and leave a comment! :)
