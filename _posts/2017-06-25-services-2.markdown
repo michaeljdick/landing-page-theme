@@ -1,0 +1,8 @@
+---
+layout: default
+img: kettlebells.jpg
+category: Services
+title: Photography
+description: |
+---
+Every now and then I grab my [Fuji](http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_t1/ "camera"), turn off the phone and get out in the nature. I always liked taking beautiful photos but it was my friend and colleague [Jeff](https://www.instagram.com/hatcat_photography/ "Jeff") who really introduced me to the art of photography. I really do not consider myself a professional, it's simply a hobby and a way to get out and experience nature. If you like, feel free to check out my pictures ([Insta](https://www.instagram.com/mjd283 "Instagram") or [500px](https://500px.com/michaeldick2 "500px")) and leave a comment! :)
